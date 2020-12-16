@@ -10,3 +10,4 @@ app.use(serveStatic(__dirname + '/dist'));
 app.use(history());
 
 app.listen(process.env.PORT || 5000);
+// for heroku
