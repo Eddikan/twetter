@@ -26,6 +26,7 @@ import { reactive, computed } from 'vue';
 export default {
   name: "CreateTwootPanel",
   email: "",
+  date: "",
   phone_no: "",
   setup(props, ctx) {
     const state = reactive({
