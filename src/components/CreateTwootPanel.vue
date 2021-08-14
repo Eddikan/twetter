@@ -14,7 +14,7 @@
       </div>
 
       <button>
-        Twoot It!
+        make a twoot!
       </button>
     </div>
   </form>
